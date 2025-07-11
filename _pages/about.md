@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSCF8260.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>177 Huntington Ave</p>
