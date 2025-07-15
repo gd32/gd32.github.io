@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "George Dewey",
-    "label": "Epidemiologist",
     "image": "",
     "email": "g.dewey@northeastern.edu",
     "phone": "",
@@ -69,42 +68,34 @@
   ],
   "awards": [
     {
-      "title": "UCLA Department of Epidemiology HEALRISE Scholarship",
-      "date": "2022-09-01",
+      "title": "UCLA Department of Epidemiology HEALRISE Scholarship - $20,000",
+      "date": "2022-09",
       "awarder": "UCLA Department of Epidemiology"
     },
     {
-      "title": "UCLA Fielding School of Public Health High Impact Data Initiative",
-      "date": "2021-09-01",
+      "title": "UCLA Fielding School of Public Health High Impact Data Initiative - $14,000",
+      "date": "2021-09",
       "awarder": "UCLA Department of Epidemiology"
     },
     {
-      "title": "UCLA Department of Epidemiology Graduate Fellowship",
-      "date": "2019-09-01",
+      "title": "UCLA Department of Epidemiology Graduate Fellowship - $40,000",
+      "date": "2019-09",
       "awarder": "UCLA Department of Epidemiology"
     },
     {
       "title": "Los Angeles County Department of Public Health SAS Users Group Award ",
-      "date": "2019-06-01",
+      "date": "2019-06",
       "awarder": "LA County Department of Public Health"
     },
     {
       "title": "Los Angeles County Department of Public Health SAS Users Individual Award ",
-      "date": "2018-06-01",
+      "date": "2018-06",
       "awarder": "LA County Department of Public Health"
     },
     {
-      "title": "UCLA Department of Epidemiology Dean’s Leadership Grant",
-      "date": "2015-09-01",
+      "title": "UCLA Department of Epidemiology Dean’s Leadership Grant - $45,000",
+      "date": "2015-09",
       "awarder": "UCLA Department of Epidemiology"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Infectious disease control as network interventions",
-      "publisher": "Discover Social Science and Health",
-      "releaseDate": "2025",
-      "url": "https://link.springer.com/article/10.1007/s44155-025-00217-1"
     }
   ],
   "skills": [
