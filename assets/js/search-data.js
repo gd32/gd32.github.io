@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -391,15 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-gave-a-talk-entitled-epidemic-insights-from-time-varying-signals-at-the-center-for-communicable-disease-dynamics-at-the-harvard-th-chan-school-of-public-health",
+            },},{id: "news-i-gave-a-talk-entitled-epidemic-insights-from-time-varying-signals-at-the-center-for-communicable-disease-dynamics-at-the-harvard-th-chan-school-of-public-health",
           title: 'I gave a talk entitled “Epidemic Insights from Time-Varying Signals” at the Center...',
           description: "",
           section: "News",},{id: "projects-project-1",
