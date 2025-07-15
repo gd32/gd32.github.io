@@ -36,6 +36,7 @@
       "url": "https://an88888.pythonanywhere.com/",
       "startDate": "2019-09-15",
       "endDate": "2024-05-30",
+    }
   ],
  ,
   "education": [
@@ -65,6 +66,7 @@
       "studyType": "AB",
       "startDate": "2009-09-01",
       "endDate": "2013-06-01",
+    }
   ],
   "awards": [
     {
@@ -147,7 +149,7 @@
       "language": "Spanish",
       "fluency": "Beginner",
       "icon": ""
-
+    }
   ],
   "references": [
     {
