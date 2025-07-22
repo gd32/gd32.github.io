@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-article-infectious-disease-control-as-network-interventions-was-published-in-discover-social-science-and-health",
           title: 'Our article “Infectious disease control as network interventions” was published in Discover Social...',
           description: "",
+          section: "News",},{id: "news-our-article-validating-a-real-time-single-item-subjective-well-being-measure-with-the-positive-and-negative-affect-schedule-panas-in-us-and-indian-samples-was-published-in-psychiatry-and-clincial-neurosciences-reports",
+          title: 'Our article “Validating a real-time, single-item subjective well-being measure with the Positive and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
