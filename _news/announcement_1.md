@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk entitled "Epidemic Insights from Time-Varying Signals" at the Center for Communicable Disease Dynamics at the Harvard TH Chan School of Public Health.
+I gave a talk entitled "Epidemic Insights from Time-Varying Signals" at the [Center for Communicable Disease Dynamics](https://hsph.harvard.edu/research/communicable-disease-ccdd/) at the Harvard TH Chan School of Public Health.
