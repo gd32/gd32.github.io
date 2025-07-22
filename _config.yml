@@ -184,15 +184,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-<<<<<<< Updated upstream
   - _pages/dropdown.md
-  - _posts/
-=======
   - _posts/
   - _projects/
   - _books/
-
->>>>>>> Stashed changes
 keep_files:
   - CNAME
   - .nojekyll
