@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-i-gave-a-talk-entitled-epidemic-insights-from-time-varying-signals-at-the-center-for-communicable-disease-dynamics-at-the-harvard-th-chan-school-of-public-health",
           title: 'I gave a talk entitled “Epidemic Insights from Time-Varying Signals” at the Center...',
           description: "",
+          section: "News",},{id: "news-our-article-infectious-disease-control-as-network-interventions-was-published-in-discover-social-science-and-health",
+          title: 'Our article “Infectious disease control as network interventions” was published in Discover Social...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
