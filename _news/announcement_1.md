@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-14 
+date: 2025-9-11
 inline: true
 related_posts: false
 ---
 
-I gave a talk entitled "Epidemic Insights from Time-Varying Signals" at the [Center for Communicable Disease Dynamics](https://hsph.harvard.edu/research/communicable-disease-ccdd/) at the Harvard TH Chan School of Public Health.
+Our article (Characterizing population-level changes in human behavior during the COVID-19 pandemic in the United States)[https://www.pnas.org/doi/10.1073/pnas.2500655122] was published in PNAS.
