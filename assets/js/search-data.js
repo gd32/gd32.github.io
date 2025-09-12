@@ -23,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-gave-a-talk-entitled-epidemic-insights-from-time-varying-signals-at-the-center-for-communicable-disease-dynamics-at-the-harvard-th-chan-school-of-public-health",
-          title: 'I gave a talk entitled “Epidemic Insights from Time-Varying Signals” at the Center...',
-          description: "",
-          section: "News",},{id: "news-our-article-infectious-disease-control-as-network-interventions-was-published-in-discover-social-science-and-health",
+        },{id: "news-our-article-infectious-disease-control-as-network-interventions-was-published-in-discover-social-science-and-health",
           title: 'Our article “Infectious disease control as network interventions” was published in Discover Social...',
           description: "",
           section: "News",},{id: "news-our-article-validating-a-real-time-single-item-subjective-well-being-measure-with-the-positive-and-negative-affect-schedule-panas-in-us-and-indian-samples-was-published-in-psychiatry-and-clincial-neurosciences-reports",
           title: 'Our article “Validating a real-time, single-item subjective well-being measure with the Positive and...',
+          description: "",
+          section: "News",},{id: "news-our-article-characterizing-population-level-changes-in-human-behavior-during-the-covid-19-pandemic-in-the-united-states-https-www-pnas-org-doi-10-1073-pnas-2500655122-was-published-in-pnas",
+          title: 'Our article (Characterizing population-level changes in human behavior during the COVID-19 pandemic in...',
           description: "",
           section: "News",},{
         id: 'social-email',
