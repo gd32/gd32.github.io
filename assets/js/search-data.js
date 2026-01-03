@@ -29,8 +29,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-article-validating-a-real-time-single-item-subjective-well-being-measure-with-the-positive-and-negative-affect-schedule-panas-in-us-and-indian-samples-was-published-in-psychiatry-and-clincial-neurosciences-reports",
           title: 'Our article “Validating a real-time, single-item subjective well-being measure with the Positive and...',
           description: "",
-          section: "News",},{id: "news-our-article-characterizing-population-level-changes-in-human-behavior-during-the-covid-19-pandemic-in-the-united-states-was-published-in-pnas",
-          title: 'Our article “Characterizing population-level changes in human behavior during the COVID-19 pandemic in...',
+          section: "News",},{id: "news-our-article-uncovering-the-post-pandemic-timing-of-influenza-rsv-and-covid-19-driving-seasonal-influenza-like-illness-in-the-united-states-a-retrospective-ecological-study-was-published-in-the-lancet-regional-health-americas",
+          title: 'Our article “Uncovering the post-pandemic timing of influenza, RSV, and COVID-19 driving seasonal...',
           description: "",
           section: "News",},{
         id: 'social-email',
