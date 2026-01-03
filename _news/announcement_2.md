@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-13 
+date: 2025-07-06 
 inline: true
 related_posts: false
 ---
 
-Our article ["Infectious disease control as network interventions"](https://link.springer.com/article/10.1007/s44155-025-00217-1) was published in Discover Social Science and Health.
+Our article ["Validating a real-time, single-item subjective well-being measure with the Positive and Negative Affect Schedule (PANAS) in US and Indian samples"](https://onlinelibrary.wiley.com/doi/10.1002/pcn5.70140) was published in Psychiatry and Clincial Neurosciences Reports.
