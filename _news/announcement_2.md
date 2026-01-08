@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-06 
+date: 2026-01-02
 inline: true
 related_posts: false
 ---
 
-Our article ["Validating a real-time, single-item subjective well-being measure with the Positive and Negative Affect Schedule (PANAS) in US and Indian samples"](https://onlinelibrary.wiley.com/doi/10.1002/pcn5.70140) was published in Psychiatry and Clincial Neurosciences Reports.
+Our article ["Uncovering the post-pandemic timing of influenza, RSV, and COVID-19 driving seasonal influenza-like illness in the United States: a retrospective ecological study"](https://www.sciencedirect.com/science/article/pii/S2667193X25003709) was published in The Lancet Regional Health Americas.
