@@ -29,8 +29,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-article-uncovering-the-post-pandemic-timing-of-influenza-rsv-and-covid-19-driving-seasonal-influenza-like-illness-in-the-united-states-a-retrospective-ecological-study-was-published-in-the-lancet-regional-health-americas",
           title: 'Our article “Uncovering the post-pandemic timing of influenza, RSV, and COVID-19 driving seasonal...',
           description: "",
-          section: "News",},{id: "news-our-article-uncovering-the-post-pandemic-timing-of-influenza-rsv-and-covid-19-driving-seasonal-influenza-like-illness-in-the-united-states-a-retrospective-ecological-study-was-published-in-the-lancet-regional-health-americas",
-          title: 'Our article “Uncovering the post-pandemic timing of influenza, RSV, and COVID-19 driving seasonal...',
+          section: "News",},{id: "news-i-m-officially-on-the-job-market-looking-for-industry-positions-in-epidemiology-rwe-rwd-and-health-data-analytics-see-my-cv-here",
+          title: 'I’m officially on the job market! Looking for industry positions in epidemiology, RWE/RWD,...',
           description: "",
           section: "News",},{
         id: 'social-email',
